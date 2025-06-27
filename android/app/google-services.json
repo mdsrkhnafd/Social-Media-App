@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000838947869",
+    "firebase_url": "https://photoblog-565fc.firebaseio.com",
+    "project_id": "photoblog-565fc",
+    "storage_bucket": "photoblog-565fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000838947869:android:0aec7927dea4e67d6ad2f4",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000838947869-3qlbdcm62pl9sfu1h5o6ddfbd6b2s1mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4t0kecxDauNkby28lHMeDbfaymHEKp48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000838947869-3qlbdcm62pl9sfu1h5o6ddfbd6b2s1mb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000838947869-5j19026prc9ltsnpq1q2qghmjdmg4qvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riverpodTodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
